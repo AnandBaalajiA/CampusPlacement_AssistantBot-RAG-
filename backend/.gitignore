@@ -12,12 +12,13 @@ venv/
 env/
 ENV/
 
+
 # Vector database
 vector_db/
 data/uploads/*
 data/processed/*
 data/temp/*
-
+dataset/
 # Logs
 logs/
 *.log

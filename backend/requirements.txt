@@ -1,0 +1,22 @@
+# Core Framework
+Flask==3.0.0
+Flask-CORS==4.0.0
+python-dotenv==1.0.0
+
+# PDF Processing - Latest version with pre-built wheels
+PyMuPDF
+
+# Google Gemini
+google-genai
+
+# Vector Database
+faiss-cpu
+numpy<2.0.0
+
+# Text Processing
+langchain
+langchain-text-splitters
+
+# Utilities
+Werkzeug
+gunicorn
